@@ -80,4 +80,5 @@ errorTimerArduinoMotorLabel = tk.Label(window, text = "Error Timer: ")
 
 errorTimerArduinoSensorsText = tk.Label(window)
 errorTimerArduinoMotorText = tk.Label(window)
+
 window.mainloop()
